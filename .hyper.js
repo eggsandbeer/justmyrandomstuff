@@ -49,22 +49,22 @@ module.exports = {
     // the full list. if you're going to provide the full color palette,
     // including the 6 x 6 color cubes and the grayscale map, just provide
     // an array here instead of a color map object
-    colors: {
+    colors: {      
       black: '#000000',
-      red: '#ff0000',
-      green: '#33ff00',
+      red: '#ff5555',
+      green: '#50fa7b',
       yellow: '#ffff00',
-      blue: '#0066ff',
-      magenta: '#cc00ff',
-      cyan: '#00ffff',
+      blue: '#6272a4',
+      magenta: '#ff79c6',
+      cyan: '#8be9fd',
       white: '#d0d0d0',
       lightBlack: '#808080',
-      lightRed: '#ff0000',
-      lightGreen: '#33ff00',
+      lightRed: '#ff5555',
+      lightGreen: '#50fa7b',
       lightYellow: '#ffff00',
       lightBlue: '#0066ff',
-      lightMagenta: '#cc00ff',
-      lightCyan: '#00ffff',
+      lightMagenta: '#ff79c6',
+      lightCyan: '#8be9fd',
       lightWhite: '#ffffff'
     },
 
